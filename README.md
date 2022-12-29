@@ -1,10 +1,16 @@
-# CLINIX_updater_Multiple_users-
+## CLINIX_updater_Multiple_users-
 
-# welcome to our application  🌱🌱🌱🌱
+## welcome to our application  🌱🌱🌱🌱
 
-# to download the app you should go to releases page and download the .exe version
+### clinix is a state-of-art clinics management system with AI support 
+### clinix hase a prescription error-free system to choose the best for patients based on patient state and drug state
 
-# if you intent to use our application you must contact us at our page 
+<br>
+<br>
+
+### to download the app you should go to releases page and download the .exe version
+
+### if you intend to use our application you must contact us at our page 
 
 <br>
 
