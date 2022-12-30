@@ -1,4 +1,4 @@
-## CLINIX_updater_Multiple_users-
+## CLINIX_updater_Multiple_users
 
 ## welcome to our application  🌱🌱🌱🌱
 
