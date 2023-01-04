@@ -1,4 +1,4 @@
-## CLINIX_updater_Multiple_users
+## CLINIX System supporting multiple users
 
 ## welcome to our application  🌱🌱🌱🌱
 
